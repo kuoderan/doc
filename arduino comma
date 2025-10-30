@@ -1,0 +1,7 @@
+#
+
+http://dan.drown.org/stm32duino/package_STM32duino_index.json
+https://arduino.me/packages/esp32.json
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
