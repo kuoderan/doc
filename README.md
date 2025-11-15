@@ -24,7 +24,7 @@ print("Hello');
 ```
 
 ```
-| Column 1 | Column 2 | Column 3 |
+| 第一行 | 第2行 2 | 第3行 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| 寫字     | Text     | Text     |
 ```
