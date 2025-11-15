@@ -19,3 +19,6 @@ printf("Hello")
 
 print("Hello")
 
+```python=
+print(&#34;Hello&#34;)
+```
