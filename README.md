@@ -13,7 +13,7 @@
 
 > 引用內容
 
-```C print("Hello") ```
+```C= print("Hello") ```
 
 print("Hello")
 
