@@ -14,7 +14,7 @@
 > 引用內容
 
 ```C= 
-print("Hello")
+printf("Hello")
 ```
 
 print("Hello")
