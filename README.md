@@ -23,11 +23,13 @@ print("Hello")
 print("Hello');
 ```
 
-```
+
 | 第 1 行   | 第 2行 2 | 第 3 行  |
 | -------- | -------- | -------- |
 | info     | Text     | Text     |
-```
+| info     | Text     | Text     |
+| info     | Text     | Text     |
+| info     | Text     | Text     |
 
 **7. 資訊區塊**
 | 區塊類型 | 背景顏色 |
