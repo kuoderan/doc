@@ -13,6 +13,6 @@
 
 > 引用內容
 
-'''' print("Hello") ''''
+``` print("Hello") ```
 
 
