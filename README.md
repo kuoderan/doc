@@ -20,5 +20,11 @@ printf("Hello")
 print("Hello")
 
 ```python=
-print("Hello';)
+print("Hello');
+```
+
+```
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 ```
