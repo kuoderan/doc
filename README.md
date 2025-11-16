@@ -1,6 +1,7 @@
 # doc
 ###【Figma 教學】[Figma 設計新手指南！](https://projectmanager.com.tw/%e5%b7%a5%e5%85%b7/figma-%e6%95%99%e5%ad%b8/)最全功能詳解+費用總結！
 ### 【Markdown】 [中文說明文件](https://markdown.tw/)
+### 技術筆記好工具：[Markdown語法&編輯器](https://hackmd.io/@howkii-studio/markdown_intro)
 # 第一層級標題
 ## 第二層級標題
 ### 第三層級標題
